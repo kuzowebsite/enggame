@@ -8,19 +8,19 @@ const finalMessage = document.getElementById("final-message");
 const figureParts = document.querySelectorAll(".figure-part");
 
 const words = [
-  "application",
-  "programming",
-  "interface",
-  "wizard",
-  "javascript",
-  "html",
-  "chrome",
-  "firefox",
-  "cars",
-  "cats",
-  "love",
-  "tiger",
-  "helloworld"
+  "dog",
+  "cat",
+  "elephant",
+  "Tiger",
+  "fish",
+  "giraffe",
+  "mosquito",
+  "flamingo",
+  "sheep",
+  "lion",
+  "penguin",
+  "snake",
+  "hippocappus"
 ];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
