@@ -115,4 +115,6 @@
   .notification-container.show {
     transform: translateY(-50px);
   }
-  
+  .hangman{
+    color: white;
+  }
